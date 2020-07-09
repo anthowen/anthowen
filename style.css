@@ -1,12 +1,3 @@
-body {
-	 background: #eaf9ff;
-}
- .page-wrapper {
-	 display: flex;
-	 align-items: center;
-	 justify-content: center;
-	 min-height: 100vh;
-}
  .icon-tada-streamer-1, .icon-tada-streamer-2 {
 	 stroke-dasharray: 30;
 	 stroke-dashoffset: 0;
