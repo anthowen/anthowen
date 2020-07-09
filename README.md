@@ -1,6 +1,6 @@
 <link rel="stylesheet"  href="https://github.com/anthowen/anthowen/raw/master/style.css"></link>
 
-<div class='page-wrapper'>
+<div align="center">
         <br>
         <br>
         <br>
