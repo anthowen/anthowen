@@ -1,4 +1,3 @@
-<link rel="stylesheet"  href="https://github.com/anthowen/anthowen/raw/master/style.css"></link>
 
 <div align="center">
         <br>
