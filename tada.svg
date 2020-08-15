@@ -23,6 +23,7 @@
 	 animation: star-alternate 1.2s ease alternate infinite;
 }
 .icon-tada-circle-1 {
+	 fill: white;
 	 animation: appear 2.5s linear alternate infinite;
 }
 .icon-tada-circle-2 {
